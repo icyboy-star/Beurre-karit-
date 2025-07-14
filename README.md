@@ -91,11 +91,7 @@
       <p>📞 Commandez maintenant par WhatsApp : <span class="highlight">0709866398</span></p>
       <p>📧 Email : <span class="highlight">donachimento@gmail.com</span></p>
       <a class="button" href="https://wa.me/2250709866398" target="_blank">Commander via WhatsApp</a>
-    </div>
 
-    <div class="external-link">
-      👉 <a href="#">Cliquez ici pour le beurre de karité</a>
-    </div>
   </div>
 
   <footer>
